@@ -1,0 +1,11 @@
+{
+    "name": "mypackage",
+    "version": "0.0.1",
+    "eslintConfig": {
+        "env": {
+            "browser": true,
+            "es2022": true,
+            "node": true
+        }
+    }
+}
